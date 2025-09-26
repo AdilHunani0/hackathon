@@ -8,6 +8,7 @@ export default function Navbar() {
     { to: "/login", label: "Login" },
     { to: "/dashboard", label: "Dashboard" },
     { to: "/about", label: "About" },
+    { to: "/page-4", label: "page-4" },
   ];
 
   return (
